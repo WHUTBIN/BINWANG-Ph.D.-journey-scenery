@@ -1,5 +1,5 @@
 
-# The-Ph.D.-journey-scenery
+# The Ph.D. journey
 
 ![image](https://github.com/user-attachments/assets/591c1df8-e346-4d35-b46b-11b93d774780)
 
