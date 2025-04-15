@@ -18,14 +18,12 @@
 # Contents
 - [一：博士生生存指南? A Survival Guide to a PhD ](#section-id1)
 - [二：一个博士生接受怎样的训练是完整、全面的科研训练](#section-id2)
-- [三：怎么阅读文献](#section-id3)
+- [三：文献阅读献](#section-id3)
 - [四：科研写作](#section-id4)
 - [五：科研绘图](#section-id5)
-- [六：大佬的博士经历和演讲](#section-id6)
-- [七：如何宣传自己](#section-id7)
-- [八：如何写一篇综述论文](#section-id8)
-- [九：博士学位论文相关](#section-id9)
-- [十：高校教师经验](#section-id10)
+- [六：如何写一篇综述论文](#section-id8)
+- [七：博士学位论文相关](#section-id9)
+- [八：求职经验](#section-id10)
 
 
 # 一：博士生生存指南！ A Survival Guide to a PhD
