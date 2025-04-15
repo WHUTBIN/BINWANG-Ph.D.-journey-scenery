@@ -14,6 +14,18 @@
 
 供后来者查阅！
 
+In my days as a seeker of the doctoral crown,
+I oft searched the boundless web for wisdom's sound—
+The art of being not just good, but truly wise.
+
+I read their words, those who walked before,
+Their trials, their thoughts, their quiet lore.
+From them I shaped a guide, my own,
+A lantern lit by minds long grown.
+
+Here now I place their voices near,
+For kindred souls who journey here.
+
 # **此处所有资料文字皆是摘自互联网，属于我的个人转载！如有侵权，请联系我删除**
 
 
