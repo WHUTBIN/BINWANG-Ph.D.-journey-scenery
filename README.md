@@ -44,14 +44,17 @@ For kindred souls who journey here.
 - [四：科研写作](#section-id4)
 - [五：科研绘图](#section-id5)
 - [六：如何写一篇综述论文](#section-id6)
-- [七：博士学位论文相关](#section-id7)
-- [八：求职经验](#section-id8)
+- [七：如何作学术报告](#section-id7)
+- [八：博士学位论文相关](#section-id8)
+- [九：求职经验](#section-id9)
+- [十：Coming](#section-id10)
 
 
 # 一：博士生生存指南！ A Survival Guide to a PhD
 <a name="section-id1"></a>
 ## 灵魂拷问： 你适合读博士吗？
-对于同一件事，每个人的看到的都不同。
+
+## 对于同一件事，每个人看到的都不同。
 
 ![image](https://github.com/user-attachments/assets/04a06eda-bdc2-4207-a711-d0e416beb270)
 
@@ -59,22 +62,34 @@ For kindred souls who journey here.
 
 
      1.Slow down to speed-up
+     
      2.“It doesn’t work”
+     
      3. Working hard
+     
      4.Love what you do
+     
      5. Steering
+     
      6.Toy examples are helpful tools
+     
      7. The parable of two students
+     
      8. Ways to think about other researchers
+     
      9. Your brand
+     
      10. Reporting progress to your advisor
+     
      11. Final note
+     
      12. Elements of a successful graduate career
 
 
 ### (2) Andrej Karpathy: A Survival Guide to a PhD (https://karpathy.github.io/2016/09/07/phd/)
   
    #### 中文版：（https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650719010&idx=1&sn=aaa7cc47f27129bbced25e6d090e2c1d&scene=21#wechat_redirect）
+      
       First, should you want to get a PhD? I was in a fortunate position of knowing since young age that I really wanted a PhD. Unfortunately it wasn’t for any very well-thought-through considerations: First, I 
       really liked school and learning things and I wanted to learn as much as possible, and second, I really wanted to be like Gordon Freeman from the game Half-Life (who has a PhD from MIT in theoretical 
       physics). I loved that game. But what if you’re more sensible in making your life’s decisions? Should you want to do a PhD? There’s a very nice Quora thread and in the summary of considerations that 
@@ -93,27 +108,40 @@ For kindred souls who journey here.
        challenges during the PhD (and some strategies for helping with them), keeping up with papers, the community nature of research and developing a research vision. I hope that these topics are helpful in 
         navigating the PhD and research in Machine Learning!
 
-                   1. Expectations going into the PhD
-                   2. Common Challenges through the Journey
-                           a. Feeling completely stuck
-                           b.Feeling overwhelmed with keeping up with ML progress
-                           c.Feeling Isolated
-                   3.Three Useful Personal Skills
-                   4. Keeping Notes on Papers and Ideas
-                   5. The Importance of Community
-                   6. Developing a Research Vision
-                   7. Summary
+           1. Expectations going into the PhD
+           
+           2. Common Challenges through the Journey
+                a. Feeling completely stuck
+                b.Feeling overwhelmed with keeping up with ML progress
+                c.Feeling Isolated
+                
+           3.Three Useful Personal Skills
+           
+           4. Keeping Notes on Papers and Ideas
+           
+           5. The Importance of Community
+           
+           6. Developing a Research Vision
+           
+           7. Summary
 
  ### (4)  Tao Xie : Advice for Researchers and Students (http://taoxie.cs.illinois.edu/advice/)
 
-              1. Ph.D. dissertation/research advice (http://taoxie.cs.illinois.edu/advice.htm#phd)
-              2. Presentation advice(http://taoxie.cs.illinois.edu/advice.htm#presentation)
-              3. Technical writing/research advice
-              4. Technical reviewing/referee advice
-              5. Advice for faculty
-              6. Job hunting advice
-              7. Misc. advice
-              8. English learning advice
+        1. Ph.D. dissertation/research advice (http://taoxie.cs.illinois.edu/advice.htm#phd)
+        
+        2. Presentation advice(http://taoxie.cs.illinois.edu/advice.htm#presentation)
+        
+        3. Technical writing/research advice
+        
+        4. Technical reviewing/referee advice
+        
+        5. Advice for faculty
+        
+        6. Job hunting advice
+        
+        7. Misc. advice
+        
+        8. English learning advice
 
      
 ### （5）张焕晨：读博，你真的想好了吗？ https://zhuanlan.zhihu.com/p/372884253 
@@ -139,12 +167,12 @@ For kindred souls who journey here.
          
          总结：
 
-        （1）努力程度。一周七天工作无休的节奏。每周至少80个小时花在学校。
+         （1）努力程度。一周七天工作无休的节奏。每周至少80个小时花在学校。
 
          （2）对于投稿的文章。一篇好文章自然需要有足够多的“干货”，或者说信息量， 但一篇能被接受的文章需要满足下面这个公式：文章的信息量 / 文章的易读性 < 审稿人水平 * 审稿人花的时间。
              对于信息量大的文章，就需要努力提升易 读性，包括清晰的问题设定，足够的上下文解释等等。
 
-          （3）论文的深度。一个误区是只关注自己做了什么，结果多么好。这些确实能证明个人能力，对于想重复这个工作的人来说会有很大帮助。
+         （3）论文的深度。一个误区是只关注自己做了什么，结果多么好。这些确实能证明个人能力，对于想重复这个工作的人来说会有很大帮助。
                 ***但更多的人更关心的是适用范围在哪里，就是什么情况下效果会减弱；为什么结果会那么好；insight是什么***。这个需要更多深入的理解和思考，而不是简单的展示结果。这个对写论文也是如此。
              只说自己的结果比基线好多少只能说明这是不错的工作，但结果再好并不能意味这个工作有深度。
 
@@ -206,12 +234,12 @@ For kindred souls who journey here.
 
            14.Problem 有研究价值
 
-            15.技术领域考虑的几件事：1.怎么把一个东西的效果做出来？2.怎么把它做大？数据更大，规模更大？3.怎么做的便宜一点？4.怎么把它做的安全一些？
+           15.技术领域考虑的几件事：1.怎么把一个东西的效果做出来？2.怎么把它做大？数据更大，规模更大？3.怎么做的便宜一点？4.怎么把它做的安全一些？
 
-            16.在写综述之前，潜在的问题是这个话题上有没有很好的综述文章？写综述时阅读文章时，带着问题，怎么放进的我的综述文章里面。综述对整个子领域绘画一个比较大的图，把所有的工作放进图里，把他们之间联系起来
+           16.在写综述之前，潜在的问题是这个话题上有没有很好的综述文章？写综述时阅读文章时，带着问题，怎么放进的我的综述文章里面。综述对整个子领域绘画一个比较大的图，把所有的工作放进图里，把他们之间联系起来
 
-             17.So What? 问自己的问题。如果我解决了这个问题，会怎么样呢？别人会不会关心，会不会care? 假设我不去回答这样一个问题，会不会有什么样的损失？
-                做一件事可以给自己带来什么样的好处，给别人带来怎样的好处？有什么样的影响力？我失去了一样东西，10年之后的我还会care吗？
+           17.So What? 问自己的问题。如果我解决了这个问题，会怎么样呢？别人会不会关心，会不会care? 假设我不去回答这样一个问题，会不会有什么样的损失？
+                 做一件事可以给自己带来什么样的好处，给别人带来怎样的好处？有什么样的影响力？我失去了一样东西，10年之后的我还会care吗？
 
 
 ### (15) Richard Hamming 的著名演讲-节选 [You and your research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html)   
@@ -285,15 +313,15 @@ For kindred souls who journey here.
                   你应该让你的工作成果成为后人工作的基石。在这个过程中，不要试图使自己变得不可或缺；否则，你就无法进步，因为在这份工作上无人取代你！  
 
 
-                      我必须得谈谈"推销"新想法这一话题。要做到这一点，你必须掌握三件事（第五章）：  
+               我必须得谈谈"推销"新想法这一话题。要做到这一点，你必须掌握三件事（第五章）：  
                                       1. 正式演讲做得好；  
                                       2. 写得一手好报告，以及  
                                       3. 掌握即兴演讲的艺术。  
 
-                   这三者必不可少——你得学会推销你的想法，不是靠宣传，而是靠清晰的表达力。我很抱歉必须指出这一点；许多科学家认为好点子会脱颖而出，无须赘言。
-                   他们错了；许多好的想法在数年后才被重新发掘，只因它潦草的首秀未引人关注。新点子自然而然会受到固有观念的抵制，这无可厚非。一个组织不能持续处于动荡之中，但它应该对重大变革做出反应。  
+                这三者必不可少——你得学会推销你的想法，不是靠宣传，而是靠清晰的表达力。我很抱歉必须指出这一点；许多科学家认为好点子会脱颖而出，无须赘言。
+                 他们错了；许多好的想法在数年后才被重新发掘，只因它潦草的首秀未引人关注。新点子自然而然会受到固有观念的抵制，这无可厚非。一个组织不能持续处于动荡之中，但它应该对重大变革做出反应。  
 
-                   改变并不意味着进步，但进步需要改变。  
+               改变并不意味着进步，但进步需要改变。  
 
                   要掌握演讲的精髓，虽说看相关的书籍或许有点用，但我强烈建议你养成对你听过的所有演讲进行批判式学习的习惯，同时也听听别人的意见。
                   找到适合你风格且对你有用的内容，也包括在合适时机讲个笑话的演讲艺术。
@@ -443,31 +471,32 @@ For kindred souls who journey here.
 
 ## 要点总结
 
-（1）每天阅读文献，**批判性阅读**。了解本领域最近进展，只看文章的标题和Abstract，遇到感兴趣的和重要的留下来重点关照。
+    （1）每天阅读文献，**批判性阅读**。了解本领域最近进展，只看文章的标题和Abstract，遇到感兴趣的和重要的留下来重点关照。
 
-（2）尝试了解本领域全世界的著名课题组、教授或团队，各自的风格和长处是什么。尝试与这些人包括论文中的大牛见面，聊天，甚至建立更深入的联系。这是对科研人脉圈的训练，未来在博士以后去找pos-doc，教职，工业界工作甚至申请国外绿卡都会帮到大忙。
+    （2）尝试了解本领域全世界的著名课题组、教授或团队，各自的风格和长处是什么。尝试与这些人包括论文中的大牛见面，聊天，甚至建立更深入的联系。这是对科研人脉圈的训练，未来在博士以后去找pos-doc，教职，
+         工业界工作甚至申请国外绿卡都会帮到大忙。
 
-（3）博士期间，多参加学术或行业会议。演讲训练，如做presentation的能力。
+    （3）博士期间，多参加学术或行业会议。演讲训练，如做presentation的能力。
 
-（4）心态的训练。抗压能力得训练。在面对拒稿、卡壳、被抢发等外力因素时保持平常心，不被负面情绪（如嫉妒 不甘）降低效率。
+    （4）心态的训练。抗压能力得训练。在面对拒稿、卡壳、被抢发等外力因素时保持平常心，不被负面情绪（如嫉妒 不甘）降低效率。
 
-（5）画图的训练。
+    （5）画图的训练。
 
-（6）实验记录的训练。
+    （6）实验记录的训练。
 
-（7）英语表达：熟练完整地进行日常对话、写作、阅读。
+    （7）英语表达：熟练完整地进行日常对话、写作、阅读。
 
-（8）搜集信息的能力：能快速准确找到自己需要的论文、知识点或代码，切忌浪费时间重复劳动前人做过，或者用正确但过时的工具事倍功半。
+    （8）搜集信息的能力：能快速准确找到自己需要的论文、知识点或代码，切忌浪费时间重复劳动前人做过，或者用正确但过时的工具事倍功半。
 
-（9）交叉力：能发现跨领域或者不同工具或者不同流派的交集从而完成交叉类研究。
+    （9）交叉力：能发现跨领域或者不同工具或者不同流派的交集从而完成交叉类研究。
 
-（10）研究格局：注重研究的深度 专注痛点问题而非无关紧要的交叉概念/涨点/调参/做小改进。
+    （10）研究格局：注重研究的深度 专注痛点问题而非无关紧要的交叉概念/涨点/调参/做小改进。
+  
+    （11）时间管理：包括对课业、研究、审稿、助教、 阅读文献、演讲、实习、合作者之间时间管理，不会错过deadline。
 
-（11）时间管理：包括对课业、研究、审稿、助教、 阅读文献、演讲、实习、合作者之间时间管理，不会错过deadline。
+    （12）精力管理：保持体重稳定、睡眠充足、不产生心理和精神问题。
 
-（12）精力管理：保持体重稳定、睡眠充足、不产生心理和精神问题。
-
-（13）项目管理能力：统筹研究工作。
+    （13）项目管理能力：统筹研究工作。
 
  ### (1) 你的科研能力从什么时候开始突飞猛进的？(https://www.zhihu.com/question/524855881/answer/2563670389)
                 1，汇报工作的时候按照读者最容易理解的逻辑汇报工作，不要按照自己工作的编年史汇报。
@@ -540,9 +569,10 @@ For kindred souls who journey here.
 
 ### （1）怎么选择一个有前景的方向？如何选题？
 
-方法一：大牛挖坑，小牛灌水，菜鸟找坑。**找个好老板**。
+       方法一：大牛挖坑，小牛灌水，菜鸟找坑。**找个好老板**。
 
-方法二：找领域内学术水平比较好的学校，比如前20前30的学校，去查他们最近2-3年新招的博后、AP的资料，看他们导师是谁、主要做什么领域，Publication大致看一看。“结果反推原因”——能找到大牛校职位的新人做的方向，往往就是比较主流、大家普遍认可的方向。而且有时候看他们导师是谁，你基本能发现这个领域是哪几个大佬有能量，能搞定自己学生的出路。
+       方法二：找领域内学术水平比较好的学校，比如前20前30的学校，去查他们最近2-3年新招的博后、AP的资料，看他们导师是谁、主要做什么领域，Publication大致看一看。
+              “结果反推原因”——能找到大牛校职位的新人做的方向，往往就是比较主流、大家普遍认可的方向。而且有时候看他们导师是谁，你基本能发现这个领域是哪几个大佬有能量，能搞定自己学生的出路。
 
 ### （2） [研究生新生要怎么看论文](https://www.zhihu.com/question/304334959/answer/553782865)
 
@@ -569,20 +599,29 @@ For kindred souls who journey here.
 
       为什么要写科研论文（ Scientific Research Paper ）？
       
-      提出一种新的问题、观点、方法或实验手段等。
+       提出一种新的问题、观点、方法或实验手段等。
+     
        有价值（理论价值和应用价值）
+      
        负面结果（Negative Results）≠没价值
-      具有共享精神，希望为一个领域做出贡献
-      树立自己在某个领域的学术地位
+      
+       具有共享精神，希望为一个领域做出贡献
+     
+       树立自己在某个领域的学术地位
 
 
   ###### 科研论文是为了分享自己的工作，前提是有“好的工作”
 
             以读者为中心，充分考虑读者的接受能力，提高阅读乐趣
+           
             不论在篇章层面还是段落层面，都要具有逻辑性
+           
             起承转合，层层递进
+           
             英语不是关键，逻辑性更重要
+           
             实验详尽、扎实可靠
+           
             排版美观
 
 ### （3）mingwei Liu: academic-writing-guide (https://github.com/SYSUSELab/academic-writing-guide)
@@ -662,6 +701,9 @@ For kindred souls who journey here.
 
 ### （7）Writing a scientific article: A step-by-step guide for beginners （http://dx.doi.org/10.1016/j.eurger.2015.08.005）
 
+### （8）周志华 如何做研究与写论文
+https://ir.sdu.edu.cn/~zhuminchen/train/zhouzhihua.pdf
+![image](https://github.com/user-attachments/assets/8d7d90fa-7fe4-4dc9-b451-d49c4b518bcd)
 
 
 
@@ -735,9 +777,26 @@ For kindred souls who journey here.
     3.4 原则是重点突出，阐述深入，层次清楚，概念准确。否则，可以断定，作者对所综述的专题不熟悉，体验不深，不能很好地把握主题，而只是资料的堆积
 
 
-
-# 七：博士学位论文相关
+# 七： 如何作学术报告
 <a name="section-id7"></a>
+
+### （1） 怎样做好学术 PPT？ - 知乎 
+https://www.zhihu.com/question/22446174
+
+
+### （2） 理工科科研结果展示怎样让 PPT 高大上？ - 知乎
+https://www.zhihu.com/question/37422718
+
+### （3）优秀报告模板
+
+      1. https://mp.weixin.qq.com/s/RP1KzVs435zM-xL62Fb7uA
+      2. https://mp.weixin.qq.com/s/TtdRnRPJj2OP1UDYf7GOtA
+      3. https://mp.weixin.qq.com/s/zoDYYdOGy-nVRy9MkTZvRQ
+      4. https://mp.weixin.qq.com/s/UY0S95A67-LCeZrJtph1CA
+
+
+# 八：博士学位论文相关
+<a name="section-id8"></a>
 
 #### （1）.转载的经验贴
 
@@ -797,8 +856,8 @@ For kindred souls who journey here.
                 
 
 
-# 八：求职经验
-<a name="section-id8"></a>
+# 九：求职经验
+<a name="section-id9"></a>
 
 **注：** 这部分内容是观看 B 站 Up 主 [老司机耿进财](https://space.bilibili.com/81249447/channel/collectiondetail?sid=2454838&ctype=0) 的系列视频摘录的笔记。
 
