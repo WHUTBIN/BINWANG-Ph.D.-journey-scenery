@@ -705,6 +705,9 @@ For kindred souls who journey here.
 https://ir.sdu.edu.cn/~zhuminchen/train/zhouzhihua.pdf
 ![image](https://github.com/user-attachments/assets/8d7d90fa-7fe4-4dc9-b451-d49c4b518bcd)
 
+### (9) 如何仅从Introduction看出一篇文献的水平？ - Akira的回答 - 知乎
+https://www.zhihu.com/question/551747204/answer/2664501959
+![image](https://github.com/user-attachments/assets/d323f529-3ad7-4e6d-a83d-01617891bed8)
 
 
 # 五：科研绘图
