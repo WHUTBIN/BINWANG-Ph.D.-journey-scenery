@@ -47,7 +47,7 @@ For kindred souls who journey here.
 - [七：如何作学术报告](#section-id7)
 - [八：博士学位论文相关](#section-id8)
 - [九：求职经验](#section-id9)
-- [十：Coming](#section-id10)
+- [十：如何创新](#section-id10)
 
 
 # 一：博士生生存指南！ A Survival Guide to a PhD
@@ -1136,3 +1136,14 @@ https://www.zhihu.com/question/37422718
 4.你的东西对于我们团队发展有什么用呢?能不能给对方带来足够的东西。  
 
 5.能不能解决或者有希望解决某个实际的问题，再小的都行，起码得有希望。 
+
+
+# 十：如何创新？
+<a name="section-id10"></a>
+
+### （1） 科研论文如何想到不错的 idea？ - 3mjun的回答 - 知乎
+https://www.zhihu.com/question/300967426/answer/3013143039
+
+![image](https://github.com/user-attachments/assets/669208f6-b2bb-49e3-b598-a4ca8f04e3df)
+
+
