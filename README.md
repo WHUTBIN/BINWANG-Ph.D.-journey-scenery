@@ -48,6 +48,7 @@ For kindred souls who journey here.
 - [八：博士学位论文相关](#section-id8)
 - [九：求职经验](#section-id9)
 - [十：如何创新](#section-id10)
+- [十一：科研进展不顺及其应对](#section-id11)
 
 
 # 一：博士生生存指南！ A Survival Guide to a PhD
@@ -1159,4 +1160,10 @@ https://www.zhihu.com/question/300967426/answer/3013143039
 https://www.zhihu.com/question/300967426/answer/1535173805
 ![image](https://github.com/user-attachments/assets/46a2411b-49f5-49a8-8934-8e7112e798de)
 
+# 十一：科研进展不顺及其应对
+<a name="section-id11"></a>
 
+### （1）科研搞不出来的时候，大家一般都会干什么？ - 知乎
+https://www.zhihu.com/question/62269624
+
+https://www.zhihu.com/question/62269624
