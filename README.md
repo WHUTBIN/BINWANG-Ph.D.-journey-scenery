@@ -1165,5 +1165,6 @@ https://www.zhihu.com/question/300967426/answer/1535173805
 
 ### （1）科研搞不出来的时候，大家一般都会干什么？ - 知乎
 https://www.zhihu.com/question/62269624
+### （2）作为博士生，你们有没有遇到过一个科研问题几个月解决不了的情况？ - 知乎
+https://www.zhihu.com/question/399266921
 
-https://www.zhihu.com/question/62269624
